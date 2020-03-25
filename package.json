@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/richardl33/webpack4-vuejs.git"
   },
-  "author": "",
+  "author": "Richard Lee",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/richardl33/webpack4-vuejs/issues"
