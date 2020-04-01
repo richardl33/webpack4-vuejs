@@ -7,7 +7,7 @@ module.exports = {
    entry: [
       './src/app.js'
    ],
-   modules: {
+   module: {
       rules: [
          {
             test: /\.vue$/,
